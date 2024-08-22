@@ -52,6 +52,22 @@ Feature Upgrades: Continuously develop and add new features based on user feedba
 Scalability: Plan for scaling the platform as the user base grows, including server capacity and database optimization.
 Creating a social media platform is complex and requires a careful balance of technology, design, and user management to build a successful and engaging environment for users.
 
+OUTPUT :
+
+
+
+![Screenshot 2024-08-22 143810](https://github.com/user-attachments/assets/0520384a-bd93-448f-8128-91f819cdcf75)
+
+
+![Screenshot 2024-08-22 143851](https://github.com/user-attachments/assets/ad119b46-ded7-42d0-abc1-7f2e557ee872)
+
+
+
+
+
+
+
+
 
 
 
